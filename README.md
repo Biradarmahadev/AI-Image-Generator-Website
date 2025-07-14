@@ -3,7 +3,15 @@
 ## Overview
 
 AI-Image-Generator-Website is a simple web application that allows users to generate images based on text input using the Unsplash Source API. The project is built with HTML, CSS, and JavaScript, providing an interactive interface for users to enter a prompt and view a related image.
-
+![mrsbk](image.png)
+[
+    {
+        "type": "command",
+        "details": {
+            "key": "_markdown.openImage"
+        }
+    }
+]
 ## Features
 
 - **Text-based Image Generation:** Enter any text and get a related image fetched from Unsplash.
